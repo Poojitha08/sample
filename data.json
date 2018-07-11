@@ -25,5 +25,34 @@
   "institute":"RAVINDHRA BHARATHI",
   "data":["2014","87%"]
 }
+],
+"skills":[
+{
+  "title":"Programming Language",
+  "info":["C","C++","Java","Ruby","Phyton","R"]
+},
+{
+"title":"Databases",
+"info":["Oracle","mysql","sql"]
+},
+{
+  "title":"Operating Systems",
+  "info":["windows","MAC","UNIX","kalilinux"]
+},
+{
+  "title":"Web Technologies",
+  "info":["HTML","JS","CSS","XML"]
+}
+],
+"achievements":[
+  {
+    "achieveData":"got 1 in ppt"
+  },
+  {
+    "achieveData":"got 1 in gd"
+  },
+  {
+    "achieveData":"got 1 in paper presentation"
+  }
 ]
 }

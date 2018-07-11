@@ -1,0 +1,29 @@
+{
+"details":{
+  "name":"poojitha",
+  "image":"download.png",
+  "phoneno":"9898989898",
+  "email":"puri1508@gmail.com",
+  "address":"pvpsit"
+},
+"career":{
+  "info":"To pursure a challenging career and be a part of your company"
+},
+"education":[
+  {
+    "degree":"B.Tech",
+    "institute":"PVPSIT",
+    "data":["2016-20","80%"]
+  },
+  {
+  "degree":"Intermediate",
+  "institute":"NARAYANA",
+  "data":["2014-16","90%"]
+},
+{
+  "degree":"SSC",
+  "institute":"RAVINDHRA BHARATHI",
+  "data":["2014","87%"]
+}
+]
+}
